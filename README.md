@@ -1,5 +1,3 @@
-
-```markdown
 # Multi-Agent Chat Application
 
 This repository contains a multi-agent chat application built using the autogen library. The application sets up various conversational agents with distinct personas and allows them to engage in group chats on different topics.
@@ -54,4 +52,4 @@ The configuration for the OpenAI API is stored in `OAI_CONFIG_LIST.json`. Ensure
 
 ## Contact
 For any questions or issues, please open an issue on the GitHub repository.
-```
+
