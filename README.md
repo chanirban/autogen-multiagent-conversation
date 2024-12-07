@@ -24,6 +24,9 @@ Run the Streamlit application using the following command:
 ```bash
 streamlit run streamlit-autogen-bananaonducttape.py
 ```
+### Sample Output in the Streamlit App
+![image](https://github.com/user-attachments/assets/7834a1cd-4c7e-4a63-aee5-2e94c8edf4b9)
+
 
 ## Usage
 
